@@ -1,4 +1,8 @@
 #include<iostream>
+void sub(int a,int b)
+{
+  
+}
 int main()
 {
   float a,b;
