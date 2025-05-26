@@ -1,7 +1,7 @@
 #include<iostream>
 void sub(int a,int b)
 {
-  
+  cout<<"the sum is "<<a+b<<endl;
 }
 int main()
 {
